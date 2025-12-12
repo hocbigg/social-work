@@ -1,4 +1,5 @@
 <div align="center" style="text-align: center">
+<img src="/images/logo.png" alt=""/>
 <h3>Hocbigg - Social Work</h3>
 <p>
   Path to a free self-taught education in Social Work!
