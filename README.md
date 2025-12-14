@@ -3,6 +3,11 @@
 <h3>Hocbigg - Social Work</h3>
 <p>
   Path to a free self-taught education in Social Work!
+<p>
+  <a href="https://github.com/hocbigg/social-work">
+    <img alt="Hocbigg" src="/images/view_on_github.svg"
+  ></a>
+</p>
 </p>
 </div>
 
@@ -20,7 +25,7 @@ The Social Work curriculum is a **complete education in Social Work** using onli
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
-**[How to contribute](CONTRIBUTING.md)**
+**[How to contribute](/CONTRIBUTING.html)**
 
 
 # Communities
@@ -32,7 +37,7 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
   - [r/socialwork](https://www.reddit.com/r/socialwork/)
   - [r/SocialWorkStudents](https://www.reddit.com/r/SocialWorkStudents/)
   - [r/socialworkjobs](https://www.reddit.com/r/socialworkjobs/)
-- You can also interact through [GitHub issues](https://github.com/hocbigg/social-work/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- You can also interact through [GitHub issues](https://github.com/hocbigg/social-work/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
 
 # Curriculum
 

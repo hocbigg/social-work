@@ -11,7 +11,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 Course name | ... | ...
 
-# Online Learning - Great Courses
+## Online Learning - Great Courses
 
 
 Courses | Duration | Effort
