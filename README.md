@@ -38,6 +38,9 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
   - [r/SocialWorkStudents](https://www.reddit.com/r/SocialWorkStudents/)
   - [r/socialworkjobs](https://www.reddit.com/r/socialworkjobs/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/social-work/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
@@ -49,12 +52,6 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 | Social Work Practice | Develops skills for direct practice with individuals, families, groups, and communities. | *Social Work Methods and Skills: The Essential Foundations of Practice* | [Social Work Practice: Advocating Social Justice and Change](https://www.coursera.org/learn/social-work-practice-advocating-social-justice-and-change) |
 | Social Work Research Methods | Teaches methods to evaluate practice and contribute to evidence-based social work. | *[Research Methods for Social Work](https://www.researchgate.net/publication/237131811_Research_Methods_for_Social_Work)* | [Social Work: Research](https://www.edx.org/course/social-work-research) |
 | Ethics and Social Justice in Social Work | Guides ethical decision-making and promotes justice-oriented practice. | *Social Work Values and Ethics* | [Code of Ethics Training](https://www.socialworkers.org/About/Ethics/Ethics-Education-and-Resources/Code-of-Ethics-Training) |
-
-## Congratulations
-
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Social Work.
-Congratulations!
 
 # Code of conduct
 
