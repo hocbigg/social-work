@@ -1,41 +1,37 @@
 # Projects
 
-This page is a curated collection of well-written, step-by-step guides for learning Social Work through hands-on, project-based practice.
+A curated directory of concrete, step-by-step project walkthroughs, open-source toolkits, and practical workflows for learning Social Work through direct creation and empirical inquiry.
 
-> _What I cannot create, I do not understand — Richard Feynman._
+> _What I cannot create, I do not understand. — Richard Feynman_
 
-These projects are meant to support learning throughout the curriculum, not only at the end.  
-By building, writing, creating, or reconstructing real artifacts in the field, learners develop practical understanding alongside theoretical study.
+---
 
-## Tutorials
+## Clinical Assessment & Case Formulation
 
-- [Case Plan](#write-your-own-case-plan)
-- [Assessment Report](#conduct-your-own-assessment)
-- [Intervention Strategy](#design-your-own-intervention)
-- [Treatment Plan](#develop-your-own-treatment-plan)
-- [Progress Note](#write-your-own-progress-note)
+- [Stanley-Brown Suicide Safety Planning Intervention (SPI) Protocol](https://suicidesafetyplan.com)
+- Biopsychosocial-Spiritual (BPSS) Intake Assessment & Case Conceptualization Guide (CSWE Clinical Practice Guide)
+- Multigenerational Genogram and Ecomap Construction Walkthrough (Standard Family Systems Mapping Methodology)
+- SMART Treatment Planning and Goal Attainment Scaling (GAS) in Clinical Social Work (Substance Abuse and Mental Health Services Administration)
+- SOAP and DAP Clinical Progress Documentation Frameworks (Clinical Case Management Manuals)
 
-### Write your own case plan
+## Community Needs Assessment & Grassroots Organizing
 
-- [How to Write a Case Plan for Social Work: Step-by-Step](https://unitedforsocialgood.com/how-to-write-a-case-plan-for-social-work) (Guide with steps)
-- [Social Work Case Planning Guide – What You Need social-work Examples & Studies](https://www.socialworkportal.com/social-casework) (Practical guide)
+- [Assessing Community Needs and Resources: Comprehensive Toolkit](https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources)
+- [Identifying Community Assets and Capacity Inventory: Step-by-Step Guide](https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/identifying-community-assets-and-resources/main)
+- [Conducting Community Focus Groups and Listening Sessions: Facilitator Guide](https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main)
+- [Developing a Community Intervention and Strategic Action Plan](https://ctb.ku.edu/en/table-of-contents/analyze/developing-an-intervention)
+- Power Mapping and Stakeholder Influence Matrix for Grassroots Campaigns (Midwest Academy Organizing Guide)
 
-### Conduct your own assessment
+## Program Design, Logic Models & Evaluation Research
 
-- [How to Write a Biopsychosocial Assessment (With Template)](https://www.icanotes.com/2020/11/24/how-to-write-a-biopsychosocial-assessment) (Step-by-step with template)
-- [How to Write a Biopsychosocial Assessment (BPS): With Templates and Examples](https://www.supanote.ai/blog/biopsychosocial-assessment-guide) (Detailed tutorial)
+- [Developing a Program Logic Model or Theory of Change](https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main)
+- [CDC Program Evaluation Framework and Action Guide](https://www.cdc.gov/evaluation/)
+- Single-Case Experimental Design (SCED / SSD) for Practice Evaluation (AB and ABAB Visual Analysis Protocols)
+- Human Service Grant Proposal and Line-Item Budget Construction (Nonprofit Development Toolkit)
 
-### Design your own intervention
+## Policy Analysis, Legislative Advocacy & Equity Audits
 
-- [Developing an Intervention social-work Community Tool Box](https://ctb.ku.edu/en/developing-intervention) (Toolkit with steps)
-- [Crafting an Effective Intervention Plan in Social Work](https://unitedforsocialgood.com/intervention-plan-in-social-work) (Step-by-step guide)
-
-### Develop your own treatment plan
-
-- [How to Write a Counseling Treatment Plan (W/Example)](https://www.simplepractice.com/resource/counseling-treatment-plan-example) (Cheat-sheet with examples)
-- [How to Write a Treatment Plan: A guide for therapists](https://notedesigner.com/how-to-write-a-treatment-plan-a-guide-for-therapists) (Comprehensive instructions)
-
-### Write your own progress note
-
-- [Social Work Progress Notes](https://www.simplepractice.com/blog/social-work-progress-notes) (Examples and tips)
-- [Best Guide to Writing a SOAP Note with Free Examples & Template](https://www.socialworkportal.com/soap-progress-note) (Format-focused tutorial)
+- [Racial Equity Impact Assessment (REIA) Toolkit](https://www.raceforward.org/practice/tools/racial-equity-impact-assessment-toolkit)
+- Evidence-Based Social Policy Brief: Bardach's Eightfold Path and Gilbert-Terrell Policy Framework (Social Welfare Policy Guide)
+- Drafting Legislative Testimony and Policy Fact Sheets for Public Hearings (Social Work Policy Institute)
+- Community Environmental Hazard and Social Vulnerability Index (SVI) Mapping (CDC / ATSDR Geospatial Methodology)
