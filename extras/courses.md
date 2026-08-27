@@ -2,8 +2,6 @@
 
 A curated directory of standout full-length university lectures, high-production open courses, and specialized audiovisual masterclasses designed to build deep clinical intuition, policy acumen, and community leadership in Social Work.
 
----
-
 ## Clinical Practice, Crisis Intervention & Mental Health
 
 - [Psychological First Aid (Coursera / Johns Hopkins University / Dr. George S. Everly Jr.)](https://www.coursera.org/learn/psychological-first-aid)

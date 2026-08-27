@@ -2,8 +2,6 @@
 
 A curated collection of field-defining monographs, landmark theoretical papers, and transformative historical texts in Social Work. These works represent the intellectual foundation of the discipline—illustrating how pioneering practitioners, policy architects, and critical theorists formulated new paradigms, critiqued institutional power, and advanced human rights.
 
----
-
 ## Foundational & Historical Classics
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -13,8 +11,6 @@ A curated collection of field-defining monographs, landmark theoretical papers, 
 | *Is Social Work a Profession?* | Abraham Flexner | Landmark Paper | The historic 1915 address that catalyzed the professionalization of social work by challenging practitioners to define their unique scientific knowledge base. |
 | *The Casework Relationship* | Felix P. Biestek | Book / Monograph | Articulates the classical seven principles of the casework relationship, establishing the ethical and psychological baseline for client-worker rapport. |
 | *Social Casework: A Problem-Solving Process* | Helen Harris Perlman | Book / Monograph | Revolutionized clinical social work by shifting casework from passive psychoanalytic exploration to an active, collaborative problem-solving partnership. |
-
----
 
 ## Clinical Practice, Ecological Frameworks & Trauma Paradigms
 
@@ -26,8 +22,6 @@ A curated collection of field-defining monographs, landmark theoretical papers, 
 | *Cognitive-Behavioral Treatment of Borderline Personality Disorder* | Marsha M. Linehan | Book / Clinical Manual | The foundational text of Dialectical Behavior Therapy (DBT), blending behavioral science and radical acceptance to treat chronic suicidality and emotion dysregulation. |
 | *The Skills of Helping Individuals, Families, Groups, and Communities* | Lawrence Shulman | Book / Monograph | A masterwork on the interactional model of social work practice, detailing moment-to-moment clinical engagement, parallel process, and the use of self. |
 
----
-
 ## Social Welfare Policy, Political Economy & Institutional Critique
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -38,8 +32,6 @@ A curated collection of field-defining monographs, landmark theoretical papers, 
 | *The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy* | William Julius Wilson | Book / Monograph | A classic sociological examination of how deindustrialization, structural economic shifts, and spatial isolation generated concentrated urban poverty. |
 | *The Reluctant Welfare State* | Bruce S. Jansson | Book / Historical Analysis | Traces the persistent resistance to social safety nets in American history, offering an analytical framework for policy advocacy and legislative intervention. |
 
----
-
 ## Critical, Anti-Oppressive & Decolonial Praxis
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -49,8 +41,6 @@ A curated collection of field-defining monographs, landmark theoretical papers, 
 | *Abolition and Social Work: Possibilities, Paradox, and Praxis* | Mimi E. Kim, Cameron Rasmussen, & Durrell M. Washington (Eds.) | Book / Anthology | Critically investigates social work's historic and ongoing entanglements with carceral systems while charting tangible pathways toward abolitionist care and community safety. |
 | *Cultural Humility Versus Cultural Competence: A Critical Distinction in Defining Physician Training Outcomes in Multicultural Education* | Melanie Tervalon & Jann Murray-García | Landmark Paper | The foundational essay that shifted intercultural practice from mastering static cultural checklists to lifelong self-reflection, redressing power imbalances, and institutional accountability. |
 | *Decolonizing Social Work* | Mel Gray, John Coates, Michael Yellow Bird, & Tiani Hetherington (Eds.) | Book / Monograph | Challenges dominant Western social work models and highlights Indigenous-led, place-based, and anti-imperial approaches across global contexts. |
-
----
 
 ## Community Organizing, Power Analysis & Mutual Aid
 

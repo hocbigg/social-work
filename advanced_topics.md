@@ -10,8 +10,6 @@ This document outlines the advanced, post-core curriculum for social work schola
 - **Macro Practice, Executive Leadership, and Policy Advocacy:** Develops competencies in human service administration, program implementation science, legislative lobbying, and grassroots community organizing.
 - **Global Social Work, Human Rights, and Decolonial Praxis:** Explores transnational human rights law, forced migration and refugee resettlement, environmental justice, and anti-carceral decolonial methods.
 
----
-
 ## Advanced Clinical Practice, Psychopathology, and Complex Trauma
 
 | Topic | Why Study | Resources |
@@ -22,8 +20,6 @@ This document outlines the advanced, post-core curriculum for social work schola
 | Advanced Family Systems & Emotion-Focused Modalities | Equips clinicians to assess and intervene in multi-generational family dynamics, structural boundary issues, and chronic relational distress. | - *Family Therapy: Concepts and Methods* by Michael P. Nichols and Sean D. Davis<br>- *The Practice of Emotionally Focused Couple Therapy: Creating Connection* by Susan M. Johnson<br>- *Bowen Family Systems Theory* by Daniel V. Papero |
 | Addictions, Co-Occurring Disorders, and Harm Reduction | Prepares practitioners for integrated dual-diagnosis treatment, motivational interviewing, and non-judgmental harm-reduction strategies across substance and behavioral dependencies. | - *Motivational Interviewing: Helping People Change and Grow* by William R. Miller and Stephen Rollnick<br>- *Substance Use and Abuse: Cultural and Clinical Perspectives* by Flávio Francisco Marsiglia et al.<br>- *SAMHSA TIP 42: Substance Use Disorder Treatment for People with Co-Occurring Disorders* (Substance Abuse and Mental Health Services Administration) |
 
----
-
 ## Integrated Behavioral Health, Medical Social Work, and Palliative Care
 
 | Topic | Why Study | Resources |
@@ -32,8 +28,6 @@ This document outlines the advanced, post-core curriculum for social work schola
 | Palliative Care, Oncology, and End-of-Life Social Work | Develops advanced skills in psychosocial symptom management, advance care planning, complex grief therapy, and interdisciplinary hospice care. | - *Oxford Textbook of Palliative Social Work* by Terry Altilio and Shirley Otis-Green<br>- *Living with Dying: A Complete Guide for Caregivers* by Joan Berzoff and Phyllis R. Silverman<br>- *Core Competencies in Palliative Social Work* (Social Work in Hospice & Palliative Care Network) |
 | Clinical Gerontology and Dementia Care | Explores the biopsychosocial aspects of healthy aging, neurocognitive disorders, caregiver burden, and long-term care navigation. | - *Social Work Practice with Older Adults: An Actively Aging Framework* by Jill Chonody and Barbra Teater<br>- *Handbook of Social Work in Health and Aging* by Lenard W. Kaye<br>- *Dementia Care: A Practical Guide for Social Workers* by Alice Lovell |
 | Disability Justice and Neurodiversity-Affirming Practice | Critiques medicalized deficits by applying the social model of disability, neurodivergence-affirming frameworks, and independent living advocacy. | - *Care Work: Dreaming Disability Justice* by Leah Lakshmi Piepzna-Samarasinha<br>- *Disability and Social Work Education: Practice and Policy* by Stephen French Gilson and Elizabeth DePoy<br>- *Neurodiversity Studies: A New Critical Paradigm* by Hanna Bertilsdotter Rosqvist, Nick Chown, and Anna Stenning |
-
----
 
 ## Children, Youth, and Trauma-Informed Family Systems
 
@@ -44,8 +38,6 @@ This document outlines the advanced, post-core curriculum for social work schola
 | Play Therapy & Expressive Modalities | Leverages developmentally responsive play, sandtray, and expressive arts to assess and treat emotional, behavioral, and attachment trauma in young children. | - *Play Therapy: The Art of the Relationship* by Garry L. Landreth<br>- *Handbook of Play Therapy* by Kevin J. O'Connor, Charles E. Schaefer, and Lisa D. Braverman<br>- *Attachment-Focused Family Play Therapy* by Cathy A. Malchiodi |
 | Restorative Youth Justice and Juvenile Diversion | Replaces punitive, carceral pipelines with restorative justice conferences, diversionary community programs, and positive youth development frameworks. | - *The Little Book of Restorative Justice for Youth in Conflict with the Law* by Lynette Parker<br>- *Juvenile Justice: A Social Work Perspective* by Steven Hartwig et al.<br>- *Restorative Justice in Transitions* (International Institute for Restorative Practices) |
 
----
-
 ## Macro Practice, Executive Leadership, and Policy Advocacy
 
 | Topic | Why Study | Resources |
@@ -54,8 +46,6 @@ This document outlines the advanced, post-core curriculum for social work schola
 | Advanced Policy Analysis, Legislative Drafting, and Lobbying | Equips practitioners to model the distributional impacts of legislation, draft bill language, build cross-sector coalitions, and lead legislative advocacy campaigns. | - *Becoming an Effective Policy Advocate: From Policy Practice to Social Justice* by Bruce S. Jansson<br>- *Policy Analysis for Social Workers* by Richard K. Caputo<br>- *Influencing State Policy: A Guide for Social Work Students and Practitioners* by Jerome H. Schiele |
 | Implementation Science and Advanced Program Evaluation | Bridges research and practice by teaching experimental and quasi-experimental program evaluation, fidelity tracking, and evidence-based intervention scaling. | - *Program Evaluation: Methods and Case Studies* by Emil J. Posavac<br>- *Implementation Science in Social Work* by Bianca Albers, Aron Shlonsky, and Robyn Mildon<br>- *Evaluating Social Programs Resource Guide* (The Abdul Latif Jameel Poverty Action Lab / MIT) |
 | Transformative Community Organizing & Spatial Justice | Explores power-mapping, direct action, spatial GIS analysis, and community-led organizing to counter neighborhood disinvestment and gentrification. | - *Roots to Power: A Manual for Grassroots Organizing* by Lee Staples<br>- *Community Organizing and Development* by Herbert J. Rubin and Irene S. Rubin<br>- *Let Them In: The Case for Open Borders and Spatial Justice* by David Cole |
-
----
 
 ## Global Social Work, Human Rights, and Decolonial Praxis
 

@@ -4,8 +4,6 @@ A curated directory of concrete, step-by-step project walkthroughs, open-source 
 
 > _What I cannot create, I do not understand. — Richard Feynman_
 
----
-
 ## Clinical Assessment & Case Formulation
 
 - [Stanley-Brown Suicide Safety Planning Intervention (SPI) Protocol](https://suicidesafetyplan.com)
