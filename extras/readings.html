@@ -1,62 +1,484 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Great Readings</title>
-<link rel="stylesheet" href="/social-work/style.css">
-<meta name="description" content="">
+  <title>Great Readings in Social Work</title>
+  <meta name="description" content="Great Readings in Social Work curriculum by hocbigg.">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/social-work/">
+  <link rel="canonical" href="https://hocbigg.github.io/social-work/extras/readings.html">
+  <meta property="og:title" content="Great Readings in Social Work">
+  <meta property="og:description" content="Great Readings in Social Work curriculum by hocbigg.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/social-work/extras/readings.html">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Great Readings">
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/social-work/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  color-scheme: light dark;
+
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: 60rem;
+  padding: 0 1rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  
+  /* Cú pháp hiện đại thay thế cho word-wrap */
+  overflow-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  transform: translateY(-150%);
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.skip-link:focus {
+  transform: translateY(1rem);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--fg);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+a:has(img) {
+  text-decoration: none;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.page-header .page-subtitle {
+  color: var(--muted);
+  font-size: 1.15rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-header img {
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+  border-radius: 0;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  margin-inline: 0;
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/social-work/">Social-Work</a>
-<a href="/social-work/advanced_topics.html">Advanced Topics</a>
-<a href="/social-work/projects.html">Projects</a>
-<a href="/social-work/extras/courses.html">Extra Courses</a>
-<a href="/social-work/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/social-work/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/social-work/">Social Work</a></li>
+      <li><a href="/social-work/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/social-work/projects.html">Projects</a></li>
+      <li><a href="/social-work/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/social-work/extras/courses.html">Extra Courses</a></li>
+      <li><a href="https://github.com/hocbigg/social-work" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
-<h1 id="great-readings">Great Readings</h1>
-<p>This document consists of great books or articles on [Field].
-Some are here because there is a course covering the same material;
-some are just great books that you should read at some point in your career.</p>
-<p>Once you have made it through most of the curriculum, knowing whether a book is worth your time will become easier.
-Or, if you are struggling in one of the courses, perhaps reading a book on the subject will help.</p>
-<h2 id="topic">Topic</h2>
-<table>
+  <main id="main-content">
+    <article>
+
+<h1 id="great-readings-in-social-work">Great Readings in Social Work</h1>
+<p>A curated collection of field-defining monographs, landmark theoretical papers, and transformative historical texts in Social Work. These works represent the intellectual foundation of the discipline—illustrating how pioneering practitioners, policy architects, and critical theorists formulated new paradigms, critiqued institutional power, and advanced human rights.</p>
+<h2 id="foundational-historical-classics">Foundational &amp; Historical Classics</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th style="text-align: left;">Name</th>
-<th style="text-align: center;">Author(s)</th>
+<th>Title</th>
+<th>Author(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">Book title</td>
-<td style="text-align: center;">Author</td>
+<td><a href="https://archive.org/details/socialdiagnosis00rich" target="_blank" rel="noopener noreferrer"><em>Social Diagnosis</em></a></td>
+<td>Mary E. Richmond</td>
+</tr>
+<tr>
+<td><a href="https://www.gutenberg.org/ebooks/1325" target="_blank" rel="noopener noreferrer"><em>Twenty Years at Hull-House</em></a></td>
+<td>Jane Addams</td>
+</tr>
+<tr>
+<td><a href="https://socialwelfare.library.vcu.edu/social-work/is-social-work-a-profession-1915/" target="_blank" rel="noopener noreferrer"><em>Is Social Work a Profession?</em></a></td>
+<td>Abraham Flexner</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780415083911" target="_blank" rel="noopener noreferrer"><em>The Casework Relationship</em></a></td>
+<td>Felix P. Biestek</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780226660332" target="_blank" rel="noopener noreferrer"><em>Social Casework: A Problem-Solving Process</em></a></td>
+<td>Helen Harris Perlman</td>
 </tr>
 </tbody>
-</table>
-</article>
-</main>
+</table></div>
+<h2 id="clinical-practice-ecological-frameworks-trauma-paradigms">Clinical Practice, Ecological Frameworks &amp; Trauma Paradigms</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780231187480" target="_blank" rel="noopener noreferrer"><em>The Life Model of Social Work Practice: Advances in Theory and Practice</em></a></td>
+<td>Carel B. Germain &amp; Alex Gitterman</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781541602953" target="_blank" rel="noopener noreferrer"><em>Trauma and Recovery: The Aftermath of Violence—From Domestic Abuse to Political Terror</em></a></td>
+<td>Judith L. Herman</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780143127741" target="_blank" rel="noopener noreferrer"><em>The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</em></a></td>
+<td>Bessel van der Kolk</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780898621839" target="_blank" rel="noopener noreferrer"><em>Cognitive-Behavioral Treatment of Borderline Personality Disorder</em></a></td>
+<td>Marsha M. Linehan</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781305259003" target="_blank" rel="noopener noreferrer"><em>The Skills of Helping Individuals, Families, Groups, and Communities</em></a></td>
+<td>Lawrence Shulman</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="social-welfare-policy-political-economy-institutional-critique">Social Welfare Policy, Political Economy &amp; Institutional Critique</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780679745167" target="_blank" rel="noopener noreferrer"><em>Regulating the Poor: The Functions of Public Welfare</em></a></td>
+<td>Frances Fox Piven &amp; Richard A. Cloward</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780871545442" target="_blank" rel="noopener noreferrer"><em>Street-Level Bureaucracy: Dilemmas of the Individual in Public Services</em></a></td>
+<td>Michael Lipsky</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780691028576" target="_blank" rel="noopener noreferrer"><em>The Three Worlds of Welfare Capitalism</em></a></td>
+<td>Gøsta Esping-Andersen</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780226901268" target="_blank" rel="noopener noreferrer"><em>The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy</em></a></td>
+<td>William Julius Wilson</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780394722269" target="_blank" rel="noopener noreferrer"><em>Blaming the Victim</em></a></td>
+<td>William Ryan</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781447349570" target="_blank" rel="noopener noreferrer"><em>The Gift Relationship: From Human Blood to Social Policy</em></a></td>
+<td>Richard M. Titmuss</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="critical-anti-oppressive-decolonial-praxis">Critical, Anti-Oppressive &amp; Decolonial Praxis</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere" target="_blank" rel="noopener noreferrer"><em>Pedagogy of the Oppressed</em></a></td>
+<td>Paulo Freire</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781350346086" target="_blank" rel="noopener noreferrer"><em>Decolonizing Methodologies: Research and Indigenous Peoples</em></a></td>
+<td>Linda Tuhiwai Smith</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9798888900918" target="_blank" rel="noopener noreferrer"><em>Abolition and Social Work: Possibilities, Paradox, and Praxis</em></a></td>
+<td>Mimi E. Kim, Cameron Rasmussen, &amp; Durrell M. Washington (Eds.)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1353/hpu.2010.0233" target="_blank" rel="noopener noreferrer"><em>Cultural Humility Versus Cultural Competence: A Critical Distinction in Defining Physician Training Outcomes in Multicultural Education</em></a></td>
+<td>Melanie Tervalon &amp; Jann Murray-García</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781138247390" target="_blank" rel="noopener noreferrer"><em>Decolonizing Social Work</em></a></td>
+<td>Mel Gray, John Coates, Michael Yellow Bird, &amp; Tiani Hetherington (Eds.)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="community-organizing-power-analysis-mutual-aid">Community Organizing, Power Analysis &amp; Mutual Aid</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780679721130" target="_blank" rel="noopener noreferrer"><em>Rules for Radicals: A Pragmatic Primer for Realistic Radicals</em></a></td>
+<td>Saul D. Alinsky</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9780394726977" target="_blank" rel="noopener noreferrer"><em>Poor People's Movements: Why They Succeed, How They Fail</em></a></td>
+<td>Frances Fox Piven &amp; Richard A. Cloward</td>
+</tr>
+<tr>
+<td><a href="https://archive.org/details/buildingcommunit0000kret" target="_blank" rel="noopener noreferrer"><em>Building Communities from the Inside Out: A Path Toward Finding and Mobilizing a Community's Assets</em></a></td>
+<td>John P. Kretzmann &amp; John L. McKnight</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781839762123" target="_blank" rel="noopener noreferrer"><em>Mutual Aid: Building Solidarity During This Crisis (and the Next)</em></a></td>
+<td>Dean Spade</td>
+</tr>
+<tr>
+<td><a href="https://books.google.com/books?isbn=9781440833717" target="_blank" rel="noopener noreferrer"><em>Roots to Power: A Manual for Grassroots Organizing</em></a></td>
+<td>Lee Staples</td>
+</tr>
+</tbody>
+</table></div>
+    </article>
+  </main>
 
 </body>
 </html>
